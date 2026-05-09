@@ -1,0 +1,218 @@
+country_code,country_name,capital,land_area_km2,continent
+AFG,Afghanistan,Kabul,652230,Asia
+ALB,Albania,Tirana,28748,Europe
+DZA,Algeria,Algiers,2381741,Africa
+ASM,American Samoa,Pago Pago,199,Oceania
+VIR,American Virgin Islands,Charlotte Amalie,347,North America
+AND,Andorra,Andorra la Vella,468,Europe
+AGO,Angola,Luanda,1246700,Africa
+ATG,Antigua and Barbuda,Saint John's,442,North America
+ARG,Argentina,Buenos Aires,2780400,South America
+ARM,Armenia,Yerevan,29743,Asia
+ABW,Aruba,Oranjestad,180,North America
+AUS,Australia,Canberra,7692024,Oceania
+AUT,Austria,Vienna,83871,Europe
+AZE,Azerbaijan,Baku,86600,Asia
+BHS,Bahamas,Nassau,13943,North America
+BHR,Bahrain,Manama,765,Asia
+BGD,Bangladesh,Dhaka,147570,Asia
+BRB,Barbados,Bridgetown,430,North America
+BLR,Belarus,Minsk,207600,Europe
+BEL,Belgium,Brussels,30528,Europe
+BLZ,Belize,Belmopan,22966,North America
+BEN,Benin,Porto-Novo,112622,Africa
+BMU,Bermuda,Hamilton,54,North America
+BTN,Bhutan,Thimphu,38394,Asia
+BOL,Bolivia,Sucre,1098581,South America
+BIH,Bosnia and Herzegovina,Sarajevo,51209,Europe
+BWA,Botswana,Gaborone,582000,Africa
+BRA,Brazil,Brasília,8515767,South America
+VGB,British Virgin Islands,Road Town,151,North America
+BRN,Brunei Darussalam,Bandar Seri Begawan,5765,Asia
+BGR,Bulgaria,Sofia,110879,Europe
+BFA,Burkina Faso,Ouagadougou,272967,Africa
+BDI,Burundi,Gitega,27834,Africa
+CPV,Cabo Verde,Praia,4033,Africa
+KHM,Cambodia,Phnom Penh,181035,Asia
+CMR,Cameroon,Yaoundé,475442,Africa
+CAN,Canada,Ottawa,9984670,North America
+CYM,Cayman Islands,George Town,264,North America
+CAF,Central African Republic,Bangui,622984,Africa
+TCD,Chad,N'Djamena,1284000,Africa
+CHI,Channel Islands,Saint Peter Port,198,Europe
+CHL,Chile,Santiago,756102,South America
+CHN,China,Beijing,9706961,Asia
+COL,Colombia,Bogotá,1141748,South America
+COM,Comoros,Moroni,1862,Africa
+CRI,Costa Rica,San José,51100,North America
+CIV,Cote d'Ivoire,Yamoussoukro,322463,Africa
+HRV,Croatia,Zagreb,56594,Europe
+CUB,Cuba,Havana,109884,North America
+CUW,Curacao,Willemstad,444,North America
+CYP,Cyprus,Nicosia,9251,Europe
+CZE,Czechia,Prague,78865,Europe
+COD,Democratic Republic of the Congo,Kinshasa,2344858,Africa
+DNK,Denmark,Copenhagen,43094,Europe
+DJI,Djibouti,Djibouti,23200,Africa
+DMA,Dominica,Roseau,751,North America
+DOM,Dominican Republic,Santo Domingo,48671,North America
+SXM,Dutch Sint Maarten,Philipsburg,34,North America
+ECU,Ecuador,Quito,276841,South America
+EGY,Egypt,Cairo,1002450,Africa
+SLV,El Salvador,San Salvador,21041,North America
+GNQ,Equatorial Guinea,Malabo,28051,Africa
+ERI,Eritrea,Asmara,117600,Africa
+EST,Estonia,Tallinn,45227,Europe
+SWZ,Eswatini,Mbabane,17364,Africa
+ETH,Ethiopia,Addis Ababa,1104300,Africa
+FRO,Faroe Islands,Tórshavn,1393,Europe
+FJI,Fiji,Suva,18272,Oceania
+FIN,Finland,Helsinki,338455,Europe
+FRA,France,Paris,543908,Europe
+PYF,French Polynesia,Papeetē,4167,Oceania
+MAF,French St. Martin,Marigot,53,North America
+GAB,Gabon,Libreville,267668,Africa
+GMB,"Gambia, The",Banjul,10689,Africa
+GEO,Georgia,Tbilisi,69700,Asia
+DEU,Germany,Berlin,357114,Europe
+GHA,Ghana,Accra,238533,Africa
+GIB,Gibraltar,Gibraltar,6,Europe
+GRC,Greece,Athens,131990,Europe
+GRL,Greenland,Nuuk,2166086,North America
+GRD,Grenada,St. George's,344,North America
+GUM,Guam,Hagåtña,549,Oceania
+GTM,Guatemala,Guatemala City,108889,North America
+GIN,Guinea,Conakry,245857,Africa
+GNB,Guinea-Bissau,Bissau,36125,Africa
+GUY,Guyana,Georgetown,214969,South America
+HTI,Haiti,Port-au-Prince,27750,North America
+HND,Honduras,Tegucigalpa,112492,North America
+HKG,"Hong Kong SAR, China",City of Victoria,1104,Asia
+HUN,Hungary,Budapest,93028,Europe
+ISL,Iceland,Reykjavik,103000,Europe
+IND,India,New Delhi,3287263,Asia
+IDN,Indonesia,Jakarta,1904569,Asia
+IRN,Iran,Tehran,1648195,Asia
+IRQ,Iraq,Baghdad,438317,Asia
+IRL,Ireland,Dublin,70273,Europe
+IMN,Isle of Man,Douglas,572,Europe
+ISR,Israel,Jerusalem,21937,Asia
+ITA,Italy,Rome,301336,Europe
+JAM,Jamaica,Kingston,10991,North America
+JPN,Japan,Tokyo,377930,Asia
+JOR,Jordan,Amman,89342,Asia
+KAZ,Kazakhstan,Astana,2724900,Asia
+KEN,Kenya,Nairobi,580367,Africa
+KIR,Kiribati,South Tarawa,811,Oceania
+XKX,Kosovo,Pristina,10887,Europe
+KWT,Kuwait,Kuwait City,17818,Asia
+KGZ,Kyrgyz Republic,Bishkek,199951,Asia
+LAO,Lao PDR,Vientiane,236800,Asia
+LVA,Latvia,Riga,64559,Europe
+LBN,Lebanon,Beirut,10452,Asia
+LSO,Lesotho,Maseru,30355,Africa
+LBR,Liberia,Monrovia,111369,Africa
+LBY,Libya,Tripoli,1759540,Africa
+LIE,Liechtenstein,Vaduz,160,Europe
+LTU,Lithuania,Vilnius,65300,Europe
+LUX,Luxembourg,Luxembourg,2586,Europe
+MAC,"Macao SAR, China",Macau,30,Asia
+MDG,Madagascar,Antananarivo,587041,Africa
+MWI,Malawi,Lilongwe,118484,Africa
+MYS,Malaysia,Kuala Lumpur,330803,Asia
+MDV,Maldives,Malé,300,Asia
+MLI,Mali,Bamako,1240192,Africa
+MLT,Malta,Valletta,316,Europe
+MHL,Marshall Islands,Majuro,181,Oceania
+MRT,Mauritania,Nouakchott,1030700,Africa
+MUS,Mauritius,Port Louis,2040,Africa
+MEX,Mexico,Mexico City,1964375,North America
+FSM,Micronesia,Palikir,702,Oceania
+MDA,Moldova,Chișinău,33847,Europe
+MCO,Monaco,Monaco,2,Europe
+MNG,Mongolia,Ulan Bator,1564110,Asia
+MNE,Montenegro,Podgorica,13812,Europe
+MAR,Morocco,Rabat,446550,Africa
+MOZ,Mozambique,Maputo,801590,Africa
+MMR,Myanmar,Naypyidaw,676578,Asia
+NAM,Namibia,Windhoek,825615,Africa
+NRU,Nauru,Yaren,21,Oceania
+NPL,Nepal,Kathmandu,147181,Asia
+NLD,Netherlands,Amsterdam,41865,Europe
+NCL,New Caledonia,Nouméa,18575,Oceania
+NZL,New Zealand,Wellington,268838,Oceania
+NIC,Nicaragua,Managua,130373,North America
+NER,Niger,Niamey,1267000,Africa
+NGA,Nigeria,Abuja,923768,Africa
+PRK,North Korea,Pyongyang,120538,Asia
+MKD,North Macedonia,Skopje,25713,Europe
+MNP,Northern Mariana Islands,Saipan,464,Oceania
+NOR,Norway,Oslo,386224,Europe
+OMN,Oman,Muscat,309500,Asia
+PAK,Pakistan,Islamabad,796095,Asia
+PLW,Palau,Ngerulmud,459,Oceania
+PSE,Palestine,Ramallah,6220,Asia
+PAN,Panama,Panama City,75417,North America
+PNG,Papua New Guinea,Port Moresby,462840,Oceania
+PRY,Paraguay,Asunción,406752,South America
+PER,Peru,Lima,1285216,South America
+PHL,Philippines,Manila,342353,Asia
+POL,Poland,Warsaw,312679,Europe
+PRT,Portugal,Lisbon,92090,Europe
+PRI,Puerto Rico,San Juan,8870,North America
+QAT,Qatar,Doha,11586,Asia
+SVK,Republic of Slovakia,Bratislava,49037,Europe
+COG,Republic of the Congo,Brazzaville,342000,Africa
+ROU,Romania,Bucharest,238391,Europe
+RUS,Russia,Moscow,17098246,Europe
+RWA,Rwanda,Kigali,26338,Africa
+WSM,Samoa,Apia,2842,Oceania
+SMR,San Marino,City of San Marino,61,Europe
+STP,Sao Tome and Principe,São Tomé,964,Africa
+SAU,Saudi Arabia,Riyadh,2149690,Asia
+SEN,Senegal,Dakar,196722,Africa
+SRB,Serbia,Belgrade,77589,Europe
+SYC,Seychelles,Victoria,452,Africa
+SLE,Sierra Leone,Freetown,71740,Africa
+SGP,Singapore,Singapore,710,Asia
+SVN,Slovenia,Ljubljana,20273,Europe
+SLB,Solomon Islands,Honiara,28896,Oceania
+SOM,Somalia,Mogadishu,637657,Africa
+ZAF,South Africa,Pretoria,1221037,Africa
+KOR,South Korea,Seoul,100210,Asia
+SSD,South Sudan,Juba,619745,Africa
+ESP,Spain,Madrid,505992,Europe
+LKA,Sri Lanka,Sri Jayawardenepura Kotte,65610,Asia
+KNA,St. Kitts and Nevis,Basseterre,261,North America
+LCA,St. Lucia,Castries,616,North America
+VCT,St. Vincent and the Grenadines,Kingstown,389,North America
+SDN,Sudan,Khartoum,1886068,Africa
+SUR,Suriname,Paramaribo,163820,South America
+SWE,Sweden,Stockholm,450295,Europe
+CHE,Switzerland,Bern,41284,Europe
+SYR,Syria,Damascus,185180,Asia
+TJK,Tajikistan,Dushanbe,143100,Asia
+TZA,Tanzania,Dodoma,947303,Africa
+THA,Thailand,Bangkok,513120,Asia
+TLS,Timor-Leste,Dili,14874,Oceania
+TGO,Togo,Lomé,56785,Africa
+TON,Tonga,Nuku'alofa,747,Oceania
+TTO,Trinidad and Tobago,Port of Spain,5130,North America
+TUN,Tunisia,Tunis,163610,Africa
+TUR,Turkiye,Ankara,783562,Asia
+TKM,Turkmenistan,Ashgabat,488100,Asia
+TCA,Turks and Caicos Islands,Cockburn Town,948,North America
+TUV,Tuvalu,Funafuti,26,Oceania
+UGA,Uganda,Kampala,241550,Africa
+UKR,Ukraine,Kyiv,603550,Europe
+ARE,United Arab Emirates,Abu Dhabi,83600,Asia
+GBR,United Kingdom,London,244376,Europe
+USA,United States,"Washington, D.C.",9525067,North America
+URY,Uruguay,Montevideo,181034,South America
+UZB,Uzbekistan,Tashkent,447400,Asia
+VUT,Vanuatu,Port Vila,12189,Oceania
+VEN,Venezuela,Caracas,916445,South America
+VNM,Vietnam,Hanoi,331212,Asia
+YEM,Yemen,Sana'a,527968,Asia
+ZMB,Zambia,Lusaka,752612,Africa
+ZWE,Zimbabwe,Harare,390757,Africa

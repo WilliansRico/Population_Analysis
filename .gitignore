@@ -1,0 +1,39 @@
+#################################
+# Environment / secrets
+#################################
+.env
+*.env
+
+#################################
+# Python cache
+#################################
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+ENV/
+
+#################################
+# VS Code settings
+#################################
+.vscode/
+
+#################################
+# Jupyter checkpoints
+#################################
+.ipynb_checkpoints/
+
+#################################
+# Data (raw / sensitive)
+#################################
+data/raw/
+output/
+exports/
+original datasets/
+
+# Optional: ignore all CSVs except samples
+# *.csv
+!sample_*.csv
+!data/sample/
