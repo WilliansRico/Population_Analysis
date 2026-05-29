@@ -21,9 +21,9 @@ ENV/
 .vscode/
 
 #################################
-# Jupyter checkpoints
+# Jupyter checkpoints/notebooks
 #################################
-.ipynb_checkpoints/
+**/.ipynb_checkpoints/
 
 #################################
 # Data (raw / sensitive)
@@ -32,8 +32,20 @@ data/raw/
 output/
 exports/
 original datasets/
+cleaned_datasets/
 
-# Optional: ignore all CSVs except samples
-# *.csv
-!sample_*.csv
-!data/sample/
+# Google API credentials
+credentials.json
+token*.json
+client_secret_*.json
+*.json
+token.enc
+gmail_credentials.json
+*token*
+
+# OS files
+.DS_Store
+
+# Logs
+*.log
+logs/

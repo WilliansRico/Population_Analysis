@@ -1,15 +1,29 @@
-🔤 Languages:
+🔤 Idiomas:
 [English](README.md) | [Español](README.es.md)
+
 <br><br>
 
+# 🌍 Tendencias Globales de Demografía y Tasas de Fertilidad (1960–2050)
 
-# 🌍 Tendencias Globales Demográficas y de Tasa de Fertilidad (1960–2050)
+## Descripción General
 
-## Resumen General
+Este dashboard ofrece una visión analítica integral de las **dinámicas poblacionales globales, el comportamiento de la fertilidad y las proyecciones demográficas a largo plazo** a través de los distintos continentes desde **1960 hasta 2050**. Desarrollado en **Power BI**, transforma datos demográficos complejos en una experiencia de análisis intuitiva y orientada a la toma de decisiones, diseñada para proporcionar **perspectivas estratégicas, análisis comparativos y una visión prospectiva del futuro**.
 
-Este dashboard ofrece una visión analítica integral sobre la **dinámica poblacional global, el comportamiento de la fertilidad y las proyecciones demográficas de largo plazo** a través de los continentes desde **1960 hasta 2050**. Desarrollado en **Power BI**, transforma conjuntos de datos demográficos complejos en una experiencia de reporte intuitiva, de nivel ejecutivo, diseñada para **generar insights estratégicos, facilitar análisis comparativos y apoyar la toma de decisiones con visión de futuro**.
+El informe combina **tendencias demográficas históricas** con **modelos de proyección**, permitiendo a los usuarios comprender no solo **cómo ha evolucionado la población mundial**, sino también **por qué y de qué manera ha cambiado a lo largo del tiempo**, así como hacia dónde se **proyecta su evolución en las próximas décadas**.
 
-El reporte combina **tendencias demográficas históricas** con **modelos de proyección**, permitiendo comprender no solo **cómo ha evolucionado la población mundial**, sino también **por qué ocurrió esa evolución, cómo llegó hasta el punto actual y hacia dónde se dirige**.
+<br>
+
+> #### Este proyecto fue desarrollado mediante una completa **solución analítica de extremo a extremo (end-to-end)**, integrando:
+
+<br>
+
+- **Ingeniería de Datos**
+- **Procesos ETL**
+- **Pronóstico Estadístico**
+- **Modelado de Bases de Datos Relacionales**
+- **Visualización Interactiva de Datos**
+
+<br><br>
 
 ---
 
@@ -32,8 +46,8 @@ Esto permite identificar rápidamente:
 > Tendencias de concentración poblacional a largo plazo  
 
 <p align="left">
-    <img src="images/.png/Populationdash.png" width="45%" alt="Global Population Dashboard">
-    <img src="images/.gif/worldpopdash.gif" width="45%" alt="Global Population Dashboard">
+    <img src="media/.png/Populationdash.png" width="45%" alt="Global Population Dashboard">
+    <img src="media/.gif/worldpopdash.gif" width="45%" alt="Global Population Dashboard">
 </p>
 
 Aunque la población mundial alcanzó aproximadamente **8.1 mil millones en 2024**, su crecimiento ha seguido moderándose, con una tasa de expansión que se ha desacelerado de forma sostenida durante las últimas décadas. Esta desaceleración ha sido impulsada principalmente por la caída en la **Tasa Global de Fecundidad (TFR)**, especialmente en economías desarrolladas donde las mujeres están teniendo menos hijos que generaciones anteriores. Como resultado, esta disminución sostenida de la fertilidad está redefiniendo cada vez más los patrones de crecimiento poblacional a largo plazo, la dinámica de la fuerza laboral y la estructura demográfica global.
@@ -43,6 +57,8 @@ Para 2024, **India, China, Estados Unidos, Indonesia y Pakistán** se encuentran
 Este contraste refleja un principio demográfico clave: **tasas de fertilidad más bajas moderan significativamente el crecimiento poblacional con el tiempo, mientras que tasas de fertilidad sostenidamente altas aceleran la expansión poblacional de largo plazo**. Aunque la migración ha tenido un papel importante en el crecimiento poblacional de países como **Estados Unidos**, la rápida expansión demográfica en naciones como **Nigeria** ha sido impulsada principalmente por una alta fertilidad, mayor esperanza de vida y menor mortalidad infantil, destacando el papel dominante de la fertilidad en la trayectoria poblacional.
 
 [Tendencia de la tasa de mortalidad infantil en Nigeria](https://ourworldindata.org/grapher/child-mortality?country=NGA) | [Mejoras de la esperanza de vida en Nigeria](https://ourworldindata.org/grapher/life-expectancy?country=NGA) | [Records de migración dentro de Estados Unidos](https://www.pewresearch.org/short-reads/2024/07/22/how-the-origins-of-americas-immigrants-have-changed-since-1850/)
+
+<br><br>
 
 ---
 
@@ -60,13 +76,13 @@ Incluye:
 
 Esta sección ayuda a responder preguntas clave como:
 
-> ¿Qué continentes están envejeciendo más rápido?
-> ¿Qué poblaciones siguen siendo demográficamente sostenibles?
-> ¿Dónde probablemente se originará el crecimiento poblacional futuro?
+> ¿Qué continentes están envejeciendo más rápido?  
+> ¿Qué poblaciones siguen siendo demográficamente sostenibles?  
+> ¿Dónde probablemente se originará el crecimiento poblacional futuro?  
 
 <p align="left">
-    <img src="images/.png/tfrdash.png" width=45% alt="Fertility Rate (TFR) Dashboard">
-    <img src="images/.gif/worldtfrdash.gif" width=45% alt="Fertility Rate (TFR) Dashboard">
+    <img src="media/.png/tfrdash.png" width=45% alt="Fertility Rate (TFR) Dashboard">
+    <img src="media/.gif/worldtfrdash.gif" width=45% alt="Fertility Rate (TFR) Dashboard">
 </p>
 
 Las tasas globales de fertilidad promediaban aproximadamente **5.4 hijos por mujer en 1960**, pero desde entonces han entrado en una tendencia sostenida de descenso, cayendo alrededor de **0.05 nacimientos por mujer por año en promedio**. Esta disminución persistente ha desacelerado significativamente el crecimiento poblacional mundial y ha aumentado las preocupaciones sobre desequilibrios demográficos de largo plazo, especialmente el envejecimiento poblacional y la reducción de la fuerza laboral en regiones de baja fertilidad.
@@ -77,6 +93,8 @@ La caída en la Tasa Global de Fecundidad está impulsada principalmente por el 
 
 **BMC Public Health:**
 [La fertilidad humana en relación con la educación, la economía, la religión, la anticoncepción y los programas de planificación familiar](https://link.springer.com/article/10.1186/s12889-020-8331-7)
+
+<br><br>
 
 ---
 
@@ -95,8 +113,8 @@ El dashboard incluye:
 * Cambios temporales en el crecimiento a través de las décadas (1960–2024) <br><br>
 
 <p align="left">
-    <img src="images/.png/growthratedash.png" width=45%  alt="Growth rate Dashboard" />
-    <img src="images/.gif/worldgrowthdash.gif" width=45% alt="Growth rate Dashboard" />
+    <img src="media/.png/growthratedash.png" width=45%  alt="Growth rate Dashboard" />
+    <img src="media/.gif/worldgrowthdash.gif" width=45% alt="Growth rate Dashboard" />
 </p>
 
 Algunos países experimentaron crecimientos poblacionales excepcionales. **Qatar**, por ejemplo, registró una de las tasas máximas de crecimiento más altas de la historia moderna, alcanzando **24.2%** a mediados y finales de la década del 2000. En contraste, otras naciones experimentaron caídas poblacionales históricas. **Kuwait**, por ejemplo, registró una de las caídas más abruptas jamás registradas, alrededor de **-24% en 1990**, impulsada principalmente por la [invasión iraquí a Kuwait](https://www.britannica.com/event/Persian-Gulf-War) y la posterior [Guerra del Golfo](https://en.wikipedia.org/wiki/Gulf_War), eventos que provocaron desplazamientos masivos, evacuaciones civiles y una fuerte disrupción demográfica.
@@ -104,6 +122,8 @@ Algunos países experimentaron crecimientos poblacionales excepcionales. **Qatar
 Mientras la tasa promedio anual de crecimiento poblacional continental fue cercana a **1.55%**, el crecimiento demográfico ha fluctuado significativamente desde 1960. A nivel macro, las tendencias continentales muestran una clara divergencia: algunas regiones han mantenido un crecimiento moderado, mientras otras han experimentado desaceleraciones prolongadas o incluso caídas sostenidas. Estos cambios rara vez son lineales, ya que la dinámica poblacional está constantemente influenciada por el desarrollo económico, los patrones migratorios, la fertilidad y la estabilidad política.
 
 En **Sudamérica**, particularmente en **Venezuela** (de donde soy 😊), un proceso de **declive poblacional** de largo plazo se volvió especialmente severo cuando el país registró una de las **contracciones demográficas más pronunciadas** de su historia reciente, alcanzando aproximadamente **-2.9% en 2019**. Esta caída fue impulsada principalmente por la **crisis humanitaria y económica**, que provocó **migración masiva** hacia países vecinos como **Colombia, Perú, Ecuador y Chile**. La llegada de migrantes venezolanos contribuyó al crecimiento poblacional de estos países receptores y, en algunos casos, influyó modestamente en sus tendencias demográficas generales, efecto que también puede observarse en el gráfico **Countries Growth Rate Over Years** del dashboard.
+
+<br><br>
 
 ---
 
@@ -125,8 +145,8 @@ Este marco de proyección apoya:
 > Planeación de políticas públicas y sostenibilidad  
 
 <p align="left">
-    <img src="images/.png/forecastdash.png" width="45%" alt="Population 2050 forecasting dashboard">
-    <img src="images/.gif/worldforescasts.gif" width="45%" alt="Population 2050 forecasting dashboard">
+    <img src="media/.png/forecastdash.png" width="45%" alt="Population 2050 forecasting dashboard">
+    <img src="media/.gif/worldforescasts.gif" width="45%" alt="Population 2050 forecasting dashboard">
 </p>
 
 A pesar de la notable **desaceleración del crecimiento poblacional global**, el **modelo de proyección** estima que la población mundial podría **acercarse a los 10 mil millones para 2050**, asumiendo que las tendencias demográficas históricas continúen en términos generales. Esta estimación se ubica ligeramente por encima de proyecciones demográficas ampliamente aceptadas, que suelen situar la población mundial cerca de **9.7 mil millones a mediados de siglo**, aunque sigue estando dentro de un rango similar.
@@ -136,6 +156,8 @@ Bajo este escenario, el crecimiento poblacional se concentraría cada vez más e
 Se espera que **Asia** continúe siendo el continente más poblado, no por **altas tasas de fertilidad**, sino por su **enorme base poblacional**, que sigue generando un impulso demográfico considerable pese a la desaceleración. Junto con **África**, **Asia** continuaría siendo uno de los **mayores contribuyentes al crecimiento poblacional global en las próximas décadas**, mientras que **Sudamérica y Oceanía** aportarían incrementos menores, aunque relevantes.
 
 Las tendencias históricas también indican que la **fertilidad global** probablemente continuará **descendiendo hasta 2050**. **La proyección central del modelo estima una Tasa Global de Fecundidad (TFR) de 1.27**, aunque su amplio intervalo de confianza sugiere una incertidumbre considerable alrededor del resultado exacto. Aun así, una caída sostenida de la fertilidad probablemente reforzaría la desaceleración continua del crecimiento poblacional mundial.
+
+<br><br>
 
 ---
 
@@ -151,6 +173,8 @@ Las tarjetas KPI brindan visibilidad instantánea sobre:
 * Perfil del país *(Área km², Densidad poblacional)* <br><br>
 
 Estos KPIs fueron diseñados para complementar el análisis principal del dashboard, aportando contexto adicional, mejorando la interpretación y ofreciendo una visión más completa del perfil demográfico de cada país.
+
+<br><br>
 
 ---
 
@@ -168,27 +192,31 @@ Este dashboard fue diseñado para responder preguntas como:
 * **¿Cuáles son los patrones regionales de aceleración / desaceleración del crecimiento?**
 * **¿Cuáles son las tendencias de concentración poblacional a largo plazo?**
 
+<br><br>
+
 ---
 
 ## 📚🤓 Filosofía de Diseño del Dashboard
 
 Este reporte fue construido sobre cuatro principios fundamentales:
 
-### 1. Claridad
+#### 1. Claridad
 
 Las visualizaciones priorizan legibilidad, jerarquía visual e interpretación rápida.
 
-### 2. Storytelling
+#### 2. Storytelling
 
 Cada gráfico aporta a una narrativa demográfica más amplia.
 
-### 3. Relevancia Ejecutiva
+#### 3. Relevancia Ejecutiva
 
 Los insights se presentan tanto a nivel **estratégico** como **operativo**.
 
-### 4. Inteligencia Predictiva
+#### 4. Inteligencia Predictiva
 
 El análisis histórico se complementa con analítica predictiva para construir una herramienta orientada al futuro.
+
+<br><br>
 
 ---
 
@@ -207,35 +235,89 @@ Comprender estas tendencias es esencial para gobiernos, empresas y responsables 
 
 Este dashboard transforma datos demográficos en **inteligencia clara, accionable y estratégica**.
 
+<br><br>
+
 ---
 
 ## 💭 Insight Final
 
 * **El crecimiento poblacional global se está desacelerando**
   Menores tasas de fertilidad y poblaciones cada vez más envejecidas están reduciendo gradualmente el ritmo de expansión poblacional mundial.
+<br>
 
 * **La caída de la fertilidad está redefiniendo las tendencias demográficas de largo plazo**
   Descensos sostenidos en la **Tasa Global de Fecundidad (TFR)** podrían llevar a muchos países hacia una estabilización poblacional o incluso una eventual contracción a largo plazo.
+<br>
 
 * **África impulsará gran parte del crecimiento poblacional futuro**
   El crecimiento poblacional se está concentrando cada vez más en **África**, respaldado por niveles relativamente altos de fertilidad, poblaciones jóvenes y un fuerte impulso demográfico.
+<br>
 
 * **El envejecimiento poblacional transformará las economías**
   A medida que la fertilidad disminuye y la esperanza de vida aumenta, muchos países podrían enfrentar mayores tasas de dependencia, presión sobre pensiones, mayor demanda de salud y limitaciones en la fuerza laboral.
+<br>
 
 * **Las presiones por urbanización se intensificarán**
   La rápida concentración poblacional en áreas urbanas —especialmente en regiones de rápido crecimiento— incrementará la demanda de vivienda, infraestructura, transporte, saneamiento y servicios públicos.
+<br>
 
 * **Los gobiernos podrían responder con nuevas políticas demográficas**
   Más países podrían ampliar programas de apoyo familiar, subsidios de cuidado infantil, reformas de licencia parental, estrategias migratorias y planificación de largo plazo para adaptarse a la nueva dinámica poblacional.
+<br>
 
 * **La influencia económica podría seguir cada vez más el peso demográfico**
   Países con poblaciones grandes y en crecimiento, especialmente en **África** y **Asia**, podrían desempeñar un papel más importante en los mercados laborales globales, el consumo y la influencia geopolítica.
+<br>
 
 * **Un pequeño grupo de países impulsará gran parte del crecimiento futuro**
-  Naciones como **Nigeria, India, Pakistán, República Democrática del Congo y Etiopía** proyectan aportar una parte significativa de la expansión poblacional global. <br><br>
+  Naciones como **Nigeria, India, Pakistán, República Democrática del Congo y Etiopía** proyectan aportar una parte significativa de la expansión poblacional global.
+  
+<br><br>
 
 ---
 
-> **El mundo de 2050 será profundamente diferente al de hoy.**
+## 👨‍💻 Notas del Autor
+
+¡Gracias por llegar hasta aquí!
+
+Al llegar a esta sección, has completado el recorrido por el dashboard y explorado las tendencias demográficas, dinámicas poblacionales y proyecciones futuras presentadas a lo largo del análisis. Las visualizaciones e indicadores incluidos en este proyecto tienen como objetivo transformar datos poblacionales complejos en información significativa, fácil de comprender y explorar.
+
+Desde los patrones históricos de crecimiento poblacional hasta las tendencias de fertilidad y las proyecciones a largo plazo, este dashboard proporciona una perspectiva basada en datos sobre cómo han evolucionado las poblaciones a lo largo del tiempo y cómo podrían seguir cambiando durante las próximas décadas.
+
+Ya seas un reclutador, gerente de contratación, profesional de datos, investigador, estudiante o simplemente una persona curiosa, espero que este proyecto te haya ayudado a comprender mejor la historia detrás de los datos y los cambios demográficos globales que están moldeando nuestro futuro.
+
+Gracias una vez más por dedicar tu tiempo a explorar este análisis y sus hallazgos.
+
+<br>
+
+> **El mundo de 2050 será fundamentalmente diferente al de hoy.**
+>
 > Este dashboard ayuda a visualizar ese futuro. 🙌✨
+
+---
+
+### 👨‍💻 Autor
+
+**Willians Rico**
+
+Analista de Datos Junior | Analítica e Ingeniería de Datos
+
+Gracias por leer.
+
+<br><br>
+
+---
+
+## 🛠️ ¿Interesado en las tecnologías detrás de este proyecto?
+
+Descubre las increíbles herramientas, plataformas, librerías y servicios que hicieron posible el desarrollo de este proyecto.
+
+### 👉 [Explorar la Documentación de Herramientas](README_tools.es.md)
+
+<br><br>
+
+## ¿Quieres ir directamente al dashboard interactivo?
+
+De acuerdo, solo haz clic en el enlace de abajo y míralo tú mismo.
+
+### 👉 [World Population Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTJkMDM5NGItNTMyZi00MDQyLTk5YjUtZThmMDc2MjQxNTJkIiwidCI6ImVjNWY2OTk3LTQ2MWYtNGFjYi04YzQ4LTBlNjU0ZjhmMDNjMiIsImMiOjR9)
