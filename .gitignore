@@ -32,7 +32,6 @@ data/raw/
 output/
 exports/
 original datasets/
-cleaned_datasets/
 
 # Google API credentials
 credentials.json
