@@ -1390,7 +1390,7 @@ finally:
 </p>
 
 <p align="left">
-    <img src="media/.png/jupyternotebook.png" width=70%>
+    <img src="media/.png/Jupyternotebook.png" width=70%>
 </p>
 
 <p align="left">
