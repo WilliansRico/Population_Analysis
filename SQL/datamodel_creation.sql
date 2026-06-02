@@ -61,3 +61,39 @@ ON ALL SEQUENCES IN SCHEMA world_population
 TO etl_agents;
 
 ALTER DATABASE neondb SET SEARCH_PATH TO world_population, public;
+
+-- COUNTRIES WITH MISSING POP DATA
+
+SELECT dc.country_name, dy.year_record, fp.population_count FROM world_population.dim_countries AS dc
+JOIN world_population.fact_population AS fp ON fp.country_code = dc.country_code
+JOIN world_population.dim_year AS dy ON fp.year_record = dy.year_record
+WHERE fp.population_count IS NULL
+
+-- POP ABSOLUTE GROWTH CHANGE
+
+WITH population_with_lag AS (
+    SELECT 
+        dc.country_name,
+        dc.country_code,
+        dy.year_record,
+        fp.population_count,
+
+        LAG(fp.population_count) OVER (
+            PARTITION BY dc.country_code 
+            ORDER BY dy.year_record
+        ) AS prev_year_population
+
+    FROM world_population.fact_population fp
+    JOIN world_population.dim_countries dc
+        ON dc.country_code = fp.country_code
+    JOIN world_population.dim_year dy
+        ON dy.year_record = fp.year_record
+)
+
+SELECT 
+    country_name,
+    year_record,
+    population_count,
+    prev_year_population,
+    population_count - prev_year_population AS yoy_absolute_change
+FROM population_with_lag;

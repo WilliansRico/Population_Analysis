@@ -86,7 +86,7 @@ This section helps answer key questions such as:
 
 Global fertility rates averaged approximately **5.4 children per woman in 1960**, but have since entered a sustained long-term decline, falling by roughly **0.05 births per woman annually on average**. This persistent decrease has significantly slowed global population growth and raised concerns about long-term demographic imbalance, particularly population aging and shrinking labor forces in low-fertility regions.
 
-The impact, however, varies substantially across continents. As of 2023, **Africa remains well above replacement level**, averaging approximately **3.85 children per woman**, positioning it as the youngest and fastest-growing region demographically. In contrast, **Europe's fertility rate has fallen to around 1.4**, a historically low level far below the **2.1 replacement threshold**, contributing to accelerated population aging and workforce contraction. Meanwhile, both **North America and South America have also fallen below replacement level**, placing them on a similar demographic trajectory of slower population growth, rising median age, and increasing dependency pressures.
+The impact, however, varies substantially across continents. As of 2024, **Africa remains well above replacement level**, averaging approximately **3.85 children per woman**, positioning it as the youngest and fastest-growing region demographically. In contrast, **Europe's fertility rate has fallen to around 1.4**, a historically low level far below the **2.1 replacement threshold**, contributing to accelerated population aging and workforce contraction. Meanwhile, both **North America and South America have also fallen below replacement level**, placing them on a similar demographic trajectory of slower population growth, rising median age, and increasing dependency pressures.
 
 Declining Total Fertility Rates are primarily driven by rising female education, urbanization, improved access to contraception, lower child mortality, delayed parenthood, and increasing economic pressures associated with raising children. Together, these factors shift family preferences toward smaller household sizes, contributing to slower population growth and accelerating population aging in low-fertility regions.
 
@@ -293,7 +293,7 @@ Thank you once again for taking the time to explore this analysis and its findin
 
 **Willians Rico**
 
-Junior Data Analyst | Data Engineering & Analytics Enthusiast
+Junior Data Analyst | Engineering & Automation Enthusiast
 
 Thank you for reading.
 

@@ -48,3 +48,6 @@ gmail_credentials.json
 # Logs
 *.log
 logs/
+
+# Power BI
+*.pbix

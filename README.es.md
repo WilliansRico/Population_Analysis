@@ -87,7 +87,7 @@ Esta sección ayuda a responder preguntas clave como:
 
 Las tasas globales de fertilidad promediaban aproximadamente **5.4 hijos por mujer en 1960**, pero desde entonces han entrado en una tendencia sostenida de descenso, cayendo alrededor de **0.05 nacimientos por mujer por año en promedio**. Esta disminución persistente ha desacelerado significativamente el crecimiento poblacional mundial y ha aumentado las preocupaciones sobre desequilibrios demográficos de largo plazo, especialmente el envejecimiento poblacional y la reducción de la fuerza laboral en regiones de baja fertilidad.
 
-Sin embargo, el impacto varía considerablemente entre continentes. Para 2023, **África se mantiene muy por encima del nivel de reemplazo**, con un promedio cercano a **3.85 hijos por mujer**, posicionándose como la región demográficamente más joven y de más rápido crecimiento. En contraste, **Europa** ha reducido su tasa de fertilidad a alrededor de **1.4**, un nivel históricamente bajo muy por debajo del umbral de reemplazo de **2.1**, lo que contribuye a un envejecimiento poblacional acelerado y a la contracción de su fuerza laboral. Mientras tanto, **Norteamérica y Sudamérica** también han caído por debajo del nivel de reemplazo, ubicándose en una trayectoria demográfica similar de menor crecimiento poblacional, mayor edad media y mayores presiones de dependencia.
+Sin embargo, el impacto varía considerablemente entre continentes. Para 2024, **África se mantiene muy por encima del nivel de reemplazo**, con un promedio cercano a **3.85 hijos por mujer**, posicionándose como la región demográficamente más joven y de más rápido crecimiento. En contraste, **Europa** ha reducido su tasa de fertilidad a alrededor de **1.4**, un nivel históricamente bajo muy por debajo del umbral de reemplazo de **2.1**, lo que contribuye a un envejecimiento poblacional acelerado y a la contracción de su fuerza laboral. Mientras tanto, **Norteamérica y Sudamérica** también han caído por debajo del nivel de reemplazo, ubicándose en una trayectoria demográfica similar de menor crecimiento poblacional, mayor edad media y mayores presiones de dependencia.
 
 La caída en la Tasa Global de Fecundidad está impulsada principalmente por el aumento de la educación femenina, la urbanización, un mejor acceso a anticonceptivos, menor mortalidad infantil, maternidad/paternidad más tardía y mayores presiones económicas asociadas con la crianza. En conjunto, estos factores han cambiado las preferencias familiares hacia hogares más pequeños, contribuyendo a un menor crecimiento poblacional y a un envejecimiento acelerado en regiones de baja fertilidad.
 
@@ -300,7 +300,7 @@ Gracias una vez más por dedicar tu tiempo a explorar este análisis y sus halla
 
 **Willians Rico**
 
-Analista de Datos Junior | Analítica e Ingeniería de Datos
+Analista de Datos Junior | Ingeniería de Datos y Automatización
 
 Gracias por leer.
 

@@ -1153,7 +1153,7 @@ finally:
 
 
 <p align="left">
-    <img src="media/.png/neon_Queries.png" width=70%>
+    <img src="media/.png/neon_queries.png" width=70%>
 </p>
 
 *En esta sección, todas las tablas disponibles pueden ser consultadas para ver sus datos.*  
@@ -1480,9 +1480,7 @@ finally:
 
 Gracias por llegar hasta aquí.
 
-Al alcanzar esta sección, has explorado la documentación del proyecto y obtenido información sobre las tecnologías, herramientas, metodologías y decisiones de diseño que se utilizaron durante su desarrollo. Aprecio el tiempo que invertiste en revisar el proyecto y conocer el propósito que cada componente tuvo en la construcción de esta solución.
-
-Ya seas reclutador, gerente de contratación, desarrollador, profesional de datos o simplemente un lector curioso, espero que este proyecto haya aportado valor y demostrado tanto las habilidades técnicas como analíticas aplicadas durante su implementación.
+Al alcanzar esta sección, has explorado la documentación del proyecto y obtenido información sobre las tecnologías, herramientas, metodologías y decisiones de diseño que se utilizaron durante su desarrollo. Aprecio el tiempo que invertiste en revisar el proyecto y conocer el propósito que cada componente tuvo en la construcción de esta solución.  
 
 Gracias una vez más por acompañarme en este recorrido.
 

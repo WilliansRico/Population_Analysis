@@ -1157,7 +1157,7 @@ finally:
 
 
 <p align="left">
-    <img src="media/.png/neon_Queries.png" width=70%>
+    <img src="media/.png/neon_queries.png" width=70%>
 </p>
 
 *On this section, all the available tables can be queried to see their data.*
@@ -1485,9 +1485,7 @@ finally:
 
 Thank you for making it this far.
 
-By reaching this section, you have explored the project's documentation and gained insight into the technologies, tools, methodologies, and design decisions that were utilized throughout its development. I appreciate the time you invested in reviewing the project and learning about the purpose each component served in building this solution.
-
-Whether you are a recruiter, hiring manager, fellow developer, data professional, or simply a curious reader, I hope this project provided value and demonstrated both the technical and analytical skills applied during its implementation.
+By reaching this section, you have explored the project's documentation and gained insight into the technologies, tools, methodologies, and design decisions that were utilized throughout its development. I appreciate the time you invested in reviewing the project and learning about the purpose each component served in building this solution.  
 
 Thank you once again for accompanying me throughout this journey.
 
