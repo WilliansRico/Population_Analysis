@@ -1,29 +1,71 @@
 🔤 Languages:
 [English](README.md) | [Español](README.es.md)
 
-<br><br>
+<br>
 
 # 🌍 Global Demographic & Fertility Rate Trends (1960–2050)
 
+<br>
+
 ## Overview
 
-This dashboard delivers a comprehensive analytical view of **global population dynamics, fertility behavior, and long-term demographic projections** across continents from **1960 through 2050**. Built in **Power BI**, it transforms complex population related data into an intuitive, executive-level reporting experience designed for **strategic insight, comparative analysis, and forward-looking decision making**.
+This dashboard delivers a **comprehensive analytical** view of global **population dynamics**, **fertility behavior**, and **long-term demographic projections** across continents from **1960 through 2050**.
 
-The report combines **historical demographic trends** with **forecast modeling**, enabling users to understand not only **where the world population has been**, but also **why and how it evolved over time**, as well as where it is **projected to head** in the future.
+Built in **Power BI** and supported by a fully **automated data pipeline**, the project transforms complex demographic data into an **executive-level** analytical experience designed for **strategic insight**, **comparative analysis**, and **forward-looking decision making**.
 
-<br>
+The report combines **historical demographic trends** with **forecasting models**, enabling users to understand not only where global population growth has **occurred**, but also the underlying demographic drivers shaping **future** population outcomes.
 
-> #### This was built and achieved through a complete **end-to-end data analytics pipeline**, integrating:
+---
 
-<br>
+## ⚙️ End-to-End Data Pipeline Architecture
 
-- **Data engineering**
-- **ETL processing**
-- **Statistical forecasting**
-- **Relational database modeling**
-- **Interactive data visualization**
+This project was built through a complete **end-to-end data analytics pipeline** that automates the **collection**, **processing**, **storage**, and **visualization** of world population data.
 
-<br><br>
+<p align="left">
+    <img src="media/.png/pipeline_illustration.png" width="70%" alt="Data Pipeline Architecture">
+</p>
+
+Data is extracted from APIs, CSV files, and databases, transformed through Python ETL processes, stored within a Neon PostgreSQL database, and analyzed through interactive Power BI dashboards. The entire workflow is automated through GitHub Actions, enabling continuous integration, automated deployment, and scheduled data refreshes.
+
+### Key Components
+
+* **Data Engineering**
+* **ETL Processing**
+* **Statistical Forecasting**
+* **Relational Database Modeling**
+* **Interactive Data Visualization**
+
+---
+
+## 🛠️ Technology Stack
+
+### Data Sources
+
+* APIs
+* CSV Files
+* External Databases
+
+### Data Engineering
+
+* Python
+* Pandas
+* requests
+* psycopg2.extras
+
+### Database
+
+* PostgreSQL
+* Neon
+
+### Analytics & Forecasting
+
+* Power BI
+* Statistical Forecast Models
+
+### Automation
+
+* GitHub Actions
+* CI/CD Workflows
 
 ---
 

@@ -1,29 +1,71 @@
 🔤 Idiomas:
 [English](README.md) | [Español](README.es.md)
 
-<br><br>
+<br>
 
-# 🌍 Tendencias Globales de Demografía y Tasas de Fertilidad (1960–2050)
+# 🌍 Tendencias Demográficas Globales y Tasas de Fertilidad (1960–2050)
+
+<br>
 
 ## Descripción General
 
-Este dashboard ofrece una visión analítica integral de las **dinámicas poblacionales globales, el comportamiento de la fertilidad y las proyecciones demográficas a largo plazo** a través de los distintos continentes desde **1960 hasta 2050**. Desarrollado en **Power BI**, transforma datos demográficos complejos en una experiencia de análisis intuitiva y orientada a la toma de decisiones, diseñada para proporcionar **perspectivas estratégicas, análisis comparativos y una visión prospectiva del futuro**.
+Este dashboard ofrece una **visión analítica integral** de la **dinámica poblacional mundial**, el **comportamiento de la fertilidad** y las **proyecciones demográficas a largo plazo** entre continentes desde **1960 hasta 2050**.
 
-El informe combina **tendencias demográficas históricas** con **modelos de proyección**, permitiendo a los usuarios comprender no solo **cómo ha evolucionado la población mundial**, sino también **por qué y de qué manera ha cambiado a lo largo del tiempo**, así como hacia dónde se **proyecta su evolución en las próximas décadas**.
+Desarrollado en **Power BI** y respaldado por un **pipeline de datos completamente automatizado**, el proyecto transforma datos demográficos complejos en una experiencia analítica de **nivel ejecutivo**, diseñada para proporcionar **perspectivas estratégicas**, **análisis comparativos** y apoyo a la **toma de decisiones orientada al futuro**.
 
-<br>
+El informe combina **tendencias demográficas históricas** con **modelos de pronóstico**, permitiendo comprender no solo cómo ha evolucionado el crecimiento de la población mundial, sino también los factores demográficos subyacentes que están moldeando los resultados poblacionales del **futuro**.
 
-> #### Este proyecto fue desarrollado mediante una completa **solución analítica de extremo a extremo (end-to-end)**, integrando:
+---
 
-<br>
+## ⚙️ Arquitectura del Pipeline de Datos End-to-End
 
-- **Ingeniería de Datos**
-- **Procesos ETL**
-- **Pronóstico Estadístico**
-- **Modelado de Bases de Datos Relacionales**
-- **Visualización Interactiva de Datos**
+Este proyecto fue desarrollado mediante un **pipeline completo de analítica de datos de extremo a extremo (end-to-end)** que automatiza la **recopilación**, el **procesamiento**, el **almacenamiento** y la **visualización** de datos de población mundial.
 
-<br><br>
+<p align="left">
+    <img src="media/.png/pipeline_illustration.png" width="70%" alt="Arquitectura del Pipeline de Datos">
+</p>
+
+Los datos se extraen desde APIs, archivos CSV y bases de datos, se transforman mediante procesos ETL desarrollados en Python, se almacenan en una base de datos Neon PostgreSQL y posteriormente se analizan a través de dashboards interactivos en Power BI. Todo el flujo de trabajo está automatizado mediante GitHub Actions, permitiendo integración continua, despliegue automatizado y actualizaciones programadas de los datos.
+
+### Componentes Clave
+
+* **Ingeniería de Datos**
+* **Procesamiento ETL**
+* **Pronóstico Estadístico**
+* **Modelado de Bases de Datos Relacionales**
+* **Visualización Interactiva de Datos**
+
+---
+
+## 🛠️ Tecnologías Utilizadas
+
+### Fuentes de Datos
+
+* APIs
+* Archivos CSV
+* Bases de Datos Externas
+
+### Ingeniería de Datos
+
+* Python
+* Pandas
+* requests
+* psycopg2.extras
+
+### Base de Datos
+
+* PostgreSQL
+* Neon
+
+### Analítica y Pronósticos
+
+* Power BI
+* Modelos Estadísticos de Pronóstico
+
+### Automatización
+
+* GitHub Actions
+* Flujos de Trabajo CI/CD
 
 ---
 
