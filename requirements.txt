@@ -66,6 +66,7 @@ packaging==26.2
 pandas==3.0.2
 pandocfilters==1.5.1
 parso==0.8.6
+pillow==12.3.0
 platformdirs==4.9.6
 prometheus_client==0.25.0
 prompt_toolkit==3.0.52
@@ -84,9 +85,11 @@ pyparsing==3.3.2
 python-dateutil==2.9.0.post0
 python-dotenv==1.2.2
 python-json-logger==4.1.0
+pywinpty==3.0.3
 PyYAML==6.0.3
 pyzmq==27.1.0
 referencing==0.37.0
+reportlab==5.0.0
 requests==2.33.1
 requests-oauthlib==2.0.0
 rfc3339-validator==0.1.4
@@ -94,7 +97,7 @@ rfc3986-validator==0.1.1
 rfc3987-syntax==1.1.0
 rpds-py==0.30.0
 Send2Trash==2.1.0
-setuptools==82.0.1
+setuptools==84.0.0
 six==1.17.0
 soupsieve==2.8.3
 SQLAlchemy==2.0.49
